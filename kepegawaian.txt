@@ -11,3 +11,4 @@ Admin
 
 Sistem
 - Akumulasi hasil kinerja
+- Pendataan produk yang dihasilkan
