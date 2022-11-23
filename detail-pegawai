@@ -1,4 +1,7 @@
 Detail Pegawai / User:
 1. Login -> diberikan username dan password
 2. Presensi -> view QRCode (by plugin instascan)
+  - Cari alternatif utk iOS dan camera depan
 3. Lihat rekapan presensi
+  - Per bulan / minggu
+4. Lihat perhitungan bonus
