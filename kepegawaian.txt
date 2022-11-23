@@ -1,0 +1,11 @@
+Pegawai:
+- Presensi masuk dan keluar menggunakan QR Code
+- Pencatatan laporan kerja
+
+Admin
+- Rekap presensi
+- Perhitungan bonus berdasarkan kehadiran
+- Perhitungan bonus berdasarkan laporan kerja
+
+Sistem
+- Akumulasi hasil kinerja
