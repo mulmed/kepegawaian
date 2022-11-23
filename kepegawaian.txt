@@ -1,9 +1,11 @@
 Pegawai:
 - Presensi masuk dan keluar menggunakan QR Code
 - Pencatatan laporan kerja
+- Melihat histori presensi dan laporan kerja
 
 Admin
 - Rekap presensi
+- Rekap laporan kerja
 - Perhitungan bonus berdasarkan kehadiran
 - Perhitungan bonus berdasarkan laporan kerja
 
